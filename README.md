@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @suraykebed
+- 👋 Hi, I’m @suraykebede
 - 👀 I’m interested in Event Management Technology, AI, and Robotics.
 - 💞️ I’m looking to collaborate on various open-source platforms that focus on solving the challenges we face in the fields of medicine and agriculture.
 - 📫 How to reach me @BeingSK101 on Twitter
